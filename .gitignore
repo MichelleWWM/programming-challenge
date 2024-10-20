@@ -39,12 +39,6 @@ pids
 # Output of 'npm pack'
 *.tgz
 
-# Docker
-docker-compose.yml
-docker-compose.override.yml
-.dockerignore
-Dockerfile
-
 # Editor/IDE files
 .idea/
 .vscode/
